@@ -1,0 +1,9 @@
+第一步骤： my_data_process---data_pro_week_month.py --- genetate_timeseries
+
+
+0.有效性验证（多种评价方法的效果对比）
+1.健康性分布情况（3.5.2 图3.6）
+2.健康性时序变化趋势（多种评价方法的结果对比）（3.5.3 图3.7）
+3.健康性评分随指标数据值的变化情况（3.5.3 图3.8 图3.9）
+4.指标权重随时间变化情况（3.5.4 图3.10 图3.11 表3.9 表3.10）
+https://blog.csdn.net/z15818264727/article/details/122638802?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-13-122638802-null-null.pc_agg_new_rank&utm_term=python%E8%AE%A1%E7%AE%97%E7%A6%BB%E6%95%A3%E7%A8%8B%E5%BA%A6&spm=1000.2123.3001.4430
